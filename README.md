@@ -1,5 +1,7 @@
 # Sqlite-Deduplication-tool
 一个小巧的数据去重工具 多线程
+需要查看.db文件可以到sqlitebrowser官方下载Sqlite浏览器
+https://sqlitebrowser.org/dl/
 
 ![Snipaste_2024-06-06_17-57-07](https://github.com/EMIL5x9jvaB/Sqlite-Deduplication-tool/assets/140598477/c11567f4-eafe-46a7-b420-aba738276a23)
 
@@ -16,5 +18,4 @@
 ![Snipaste_2024-06-06_18-23-17](https://github.com/EMIL5x9jvaB/Sqlite-Deduplication-tool/assets/140598477/5903cb16-1821-4f36-bbf3-f702742fb958)
 
 ![00](https://github.com/EMIL5x9jvaB/Sqlite-Deduplication-tool/assets/140598477/fe687777-369a-4121-b6b0-51cc553f827f)
-需要查看.db文件可以到sqlitebrowser官方下载Sqlite浏览器
-https://sqlitebrowser.org/dl/
+
