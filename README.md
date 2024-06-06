@@ -15,4 +15,5 @@
 
 ![Snipaste_2024-06-06_18-23-17](https://github.com/EMIL5x9jvaB/Sqlite-Deduplication-tool/assets/140598477/5903cb16-1821-4f36-bbf3-f702742fb958)
 
-![Snipaste_2024-06-06_18-25-36](https://github.com/EMIL5x9jvaB/Sqlite-Deduplication-tool/assets/140598477/0e78112c-a108-4aa1-8e29-844939c90b62)
+![00](https://github.com/EMIL5x9jvaB/Sqlite-Deduplication-tool/assets/140598477/fe687777-369a-4121-b6b0-51cc553f827f)
+
