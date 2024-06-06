@@ -15,6 +15,7 @@
 ![Snipaste_2024-06-06_18-34-24](https://github.com/EMIL5x9jvaB/Sqlite-Deduplication-tool/assets/140598477/7900af4d-778e-4b3d-aea4-007e733f48c2)  
 
 ![Snipaste_2024-06-06_18-23-17](https://github.com/EMIL5x9jvaB/Sqlite-Deduplication-tool/assets/140598477/5903cb16-1821-4f36-bbf3-f702742fb958)  
+****
 需要查看.db文件可以到sqlitebrowser官方下载Sqlite浏览器  
 https://sqlitebrowser.org/dl/  
 ![00](https://github.com/EMIL5x9jvaB/Sqlite-Deduplication-tool/assets/140598477/fe687777-369a-4121-b6b0-51cc553f827f)  
