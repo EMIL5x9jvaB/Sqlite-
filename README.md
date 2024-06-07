@@ -19,5 +19,12 @@
 需要查看.db文件可以到sqlitebrowser官方下载Sqlite浏览器  
 https://sqlitebrowser.org/dl/  
 ![00](https://github.com/EMIL5x9jvaB/Sqlite-Deduplication-tool/assets/140598477/fe687777-369a-4121-b6b0-51cc553f827f)  
-![Visitor Count](https://profile-counter.glitch.me/EMIL5x9jvaB/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/EMIL5x9jvaB/count.svg)  
+****  
+![Snipaste_2024-06-08_00-30-35](https://github.com/EMIL5x9jvaB/Sqlite-Deduplication-tool/assets/140598477/e3c2ae2c-6148-4068-a6fa-ab917918ec7c)  
+![Snipaste_2024-06-08_00-31-03](https://github.com/EMIL5x9jvaB/Sqlite-Deduplication-tool/assets/140598477/117824cc-ec95-42e5-ad92-1ee08de22110)  
+
+
+
+
 
